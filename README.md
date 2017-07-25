@@ -1,4 +1,4 @@
-Description: A bash script to automate the addition of Ubuntu PPA's to Debian
+Description: A bash script to automate the addition of Ubuntu PPA's to Deepin
 
 Requires: apt-get, apt-key
 
